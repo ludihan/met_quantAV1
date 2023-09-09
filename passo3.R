@@ -15,4 +15,6 @@ acessoInternetSimples
 par(mar = c(4,4,2,2))
 barplot(acessoInternetSimples,
         main = "Na sua residência têm acesso à internet?",
+        horiz = TRUE,
+        xlim=c(0,5000),
         las=1)
