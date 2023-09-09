@@ -24,4 +24,3 @@ print(complete_table)
 colnames(complete_table) = c("Frequência Simples (Sim)", "Frequência Simples (Não)", "Frequência Relativa (Sim)", "Frequência Relativa (Não)")
 
 print(Полная_таблица)
->>>>>>> 93f49001f24e4764a2da49b203141b9176f382a3
